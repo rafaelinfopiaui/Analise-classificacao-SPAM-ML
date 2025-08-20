@@ -4,6 +4,8 @@
 
 Este repositório documenta uma jornada prática e educacional na construção de um modelo de machine learning para classificar e-mails como SPAM ou NÃO SPAM. O projeto foi desenvolvido a partir de um pequeno conjunto de dados manual e serve como um estudo de caso para explorar os desafios e as soluções de problemas de classificação com machine learning, especialmente com recursos de dados limitados.
 
+Este trabalho é parte da disciplina de **Deep Learning e Machine Learning**, ministrada pelo Professor **Arthur Felipe da Silva Veloso**, no curso de **Engenharia de Computação com IA** do Centro Universitário Tecnológico de Teresina - **UNI-CET**.
+
 O objetivo principal não é criar o filtro de spam mais preciso do mundo, mas sim **entender como diferentes algoritmos funcionam, suas limitações e o papel crucial dos dados no sucesso de um modelo**.
 
 ## 🚀 Notebooks e Experimentos
