@@ -8,6 +8,11 @@ Este trabalho é parte da disciplina de **Deep Learning e Machine Learning**, mi
 
 O objetivo principal não é criar o filtro de spam mais preciso do mundo, mas sim **entender como diferentes algoritmos funcionam, suas limitações e o papel crucial dos dados no sucesso de um modelo**.
 
+<img width="1000" height="699" alt="image" src="https://github.com/user-attachments/assets/f9eb5479-72a6-4d19-83fc-18c40bec2ec1" />
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d5a71a1b-65f7-4f42-9db3-43615d777741" />
+
+
 ## 🚀 Notebooks e Experimentos
 
 O projeto é dividido em cinco notebooks, cada um focado em um aspecto diferente da construção do modelo.
