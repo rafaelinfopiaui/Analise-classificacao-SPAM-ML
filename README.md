@@ -60,4 +60,6 @@ Para rodar os notebooks, você precisará das seguintes bibliotecas Python:
 Sinta-se à vontade para clonar este repositório, testar com seus próprios dados ou sugerir melhorias.
 
 ---
-Feito com ❤️ por [Seu Nome]
+Feito por Rafael Oliveira
+
+Grupo: Rafael Oliveira, Maurício Lima, Paula Iranda, Getúlio José e Pedro Henrique
